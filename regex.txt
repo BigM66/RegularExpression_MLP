@@ -1,0 +1,7 @@
+\bgloom(\w*)\b
+\bhaunt(\w*)\b
+\bmyster(\w*)\b
+\bforebod(\w*)\b
+\bmelanchol(\w*)\b
+\bterror(\w*)\b
+\bdesolat(\w*)\b
